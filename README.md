@@ -25,4 +25,4 @@ The file "botpredictor.ipynb" is the exported Jupyter Notebook for the bot predi
 The final output value "rf_probs0" is the likelihood of the account being a human. 
 The final output value "rf_probs1" is the likelihood of the account being a bot. 
 
-The "train2.py" file is the Python script of the contents of the Jupyter Notebook.
+The "train2.py" file is the Python script of the contents of the Jupyter Notebook. It asks for a screenname as input and outputs the likelihood of it being a human or a bot. 
